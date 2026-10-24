@@ -1132,7 +1132,7 @@ _Tools that substitute expressions in a template._
 
 ### Testing
 
-_Tools that test from model to the view._
+* [Ace Reports](https://central.sonatype.com/namespace/io.github.acereports) - Self-contained HTML test reporting for JUnit 5, TestNG, and Cucumber, capturing API traffic, logs, failure screenshots, retries, and flaky tests. Source available under the PolyForm Perimeter License 1.0.1.
 
 #### BDD
 
